@@ -30,7 +30,7 @@ const Footer = () => {
                 </div>
                 <div className="socialIcons">
                     <a
-                        href="https://www.instagram.com/mukesh_7ed4"
+                        href="https://moviesrecommendater.netlify.app/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="icon"
@@ -46,7 +46,7 @@ const Footer = () => {
                         <FaTwitter />
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/mukesh-kumar-543809310"
+                        href="https://moviesrecommendater.netlify.app/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="icon"
